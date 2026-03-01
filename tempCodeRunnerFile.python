@@ -1,0 +1,6 @@
+x = int(input ("insira a temperatura do sensor:"))
+
+if(x > 500):
+    print("Alerta! caldeira superaquecida!")
+
+print("Fim do programa!")

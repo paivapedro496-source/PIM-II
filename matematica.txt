@@ -1,0 +1,11 @@
+﻿Nome                 RA         Turma  N1     N2     Media  Status    
+--------------------------------------------------------------------------------
+
+ Turma 9A 
+Pedro paiva          84QQND2    9A     10.00  8.00   9.00   APROVADO  
+
+ Turma 9B 
+
+ Turma 8A 
+
+ Turma 8B 

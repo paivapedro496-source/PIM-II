@@ -1,0 +1,11 @@
+Nome                 RA         Turma  N1     N2     Média 
+-----------------------------------------------------------------
+
+ Turma 9A 
+Márcio paiva         LXIAKYJ    9A     9.00   7.00   8.00  
+
+ Turma 9B 
+
+ Turma 8A 
+
+ Turma 8B 
